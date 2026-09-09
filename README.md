@@ -6,7 +6,9 @@ Three things in one repo, deliberately coupled:
    engineering blogs, scored for depth. Concrete, current practice.
 2. **System design track** — an exhaustive revision set in [concepts/](concepts/).
 3. **Agentic AI track** — a parallel set in [agentic-ai/](agentic-ai/), written
-   for engineers who build and operate agentic systems.
+   for engineers who build and operate agentic systems. Includes a narrative
+   [guide/](agentic-ai/guide/00-overview.md) that explains the whole track as one
+   connected, build-and-deploy story — from tokens to shipping.
 
 Both tracks use the same card format and the same spaced-repetition engine, and
 can be drilled together or separately.

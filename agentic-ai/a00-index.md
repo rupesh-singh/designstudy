@@ -6,6 +6,12 @@ build, and operate agentic AI systems — aimed at Staff/Principal interviews.
 Same five-part card format as the system-design track — **What / Use when /
 Advantages / Tradeoffs / Staff signal** — so both sets drill identically.
 
+> **New — the narrative guide.** These files are the terse, drillable *reference*
+> layer. If you want to *understand* the material as one connected story — how a
+> real LLM app is built and deployed end to end, from tokens to shipping — read
+> the companion guide in [guide/](guide/00-overview.md). Read the guide to
+> understand; drill these cards to remember.
+
 ## The framing that makes this track coherent
 
 You are not being evaluated as an ML researcher. You are being evaluated as an
